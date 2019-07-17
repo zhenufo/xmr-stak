@@ -15,6 +15,7 @@ ROCm is not supporting old GPUs please check if your GPU is supported https://ro
 ### Cuda 8.0+ (only needed to use NVIDIA GPUs)
 
 - download and install [https://developer.nvidia.com/cuda-downloads](https://developer.nvidia.com/cuda-downloads)
+  (deb(local))
 - for minimal install choose `Custom installation options` during the install and select
     - CUDA/Develpment
     - CUDA/Runtime
