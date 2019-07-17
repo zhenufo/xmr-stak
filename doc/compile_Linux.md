@@ -27,6 +27,7 @@ ROCm is not supporting old GPUs please check if your GPU is supported https://ro
     git clone https://github.com/fireice-uk/xmr-stak.git
     mkdir xmr-stak/build
     cd xmr-stak/build
+    sudo apt-get install -y opencl-headers
     cmake ..
     make install
 
